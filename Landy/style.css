@@ -1,0 +1,180 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 25px;
+}
+.navLinks{
+    display: flex;
+    align-items: center;
+    column-gap: 60px;
+}
+.navh1{
+    color: rgb(24, 33, 109);
+}
+.navLinks > a {
+    text-decoration: none;
+    font-size: 20px;
+}
+.navLinks > span {
+    padding: 10px 50px;
+    background-color:#ff6f00;
+    color: white;
+    border-radius: 15px;
+    box-shadow: 3px 3px 10px #ff6f00 ;
+}
+
+.landingPage{
+    display: flex;
+    justify-content: space-around;
+}
+.landingPage-img{
+    width: 40%;
+    margin-top: 50px;
+}
+.landingPage-Text{
+    width: 40%;
+}
+.landingPage-Text > h1 {
+    font-size: 50px;
+    margin-left: 20px;
+    color: rgb(24, 33, 109);
+}
+.landingPage-Text > p {
+    font-family: "Motiva Sans Light", sans-serif ;
+    color: rgb(24, 33, 109);
+    margin-left: 20px;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+.landingPage-Text > span {
+    margin-left: 20px;
+    font-size: 20px;
+    box-shadow: 3px 3px 10px #ff6f00 ;
+    padding: 8px 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+    color: white;
+    background-color: #ff6f00;
+}
+.mid {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.mid h1 {    
+font-size: 50px;
+color: rgb(24, 33, 109);
+}
+.mid p {
+    color: rgb(24, 33, 109);
+    font-size: 18px;
+}
+.mid span {
+    font-size: 20px;
+    background-color: #ff6f00 ;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px #ff6f00 ;
+    color: white;
+    padding: 10px 50px;
+}
+
+.middle {
+    display: flex;
+    justify-content: space-around;
+}
+.middleImg {
+    width: 40%;
+    margin-top: 100px;
+}
+.middleText {
+    width: 40%;
+}
+.middle h1 {
+    font-size: 50px;
+    color: rgb(24, 33, 109);
+}
+.middle p {
+    color: rgb(24, 33, 109);
+    font-size: 18px;
+}
+.svg {
+    display: flex;
+}
+.svg img {
+
+}
+.svg span {
+    font-size: 11px;
+    color: rgb(24, 33, 109);
+}
+.margin {
+    margin-top: 10px;
+}
+
+.middle2 {
+    display: flex;
+    justify-content: space-around;
+    
+}
+.middle2-Text {
+    width: 40%;   
+}
+.middle2-img{
+    width: 40%;
+}
+.middle2 p {
+    font-size: 18px;
+    color: rgb(24, 33, 109);
+}
+.middle2 h1 {
+    font-size: 50px;
+    color: rgb(24, 33, 109);
+}
+
+.middle3 {
+    display: flex;
+    justify-content: space-around;
+}
+.middle3-img{
+    width: 40%;
+}
+.middle3-Text {
+    margin-top: 60px;
+    width: 40%;
+}
+.middle3 h1 {
+    font-size: 50px;
+    color: rgb(24, 33, 109);
+}
+.middle3 p {
+    font-size: 18px;
+    color: rgb(24, 33, 109);
+}
+
+.middle4 {
+    display: flex;
+    justify-content: space-around;
+}
+.middle4-Text{
+    margin-top: 100px;
+    width: 40%;
+}
+.middle4-form {
+    width: 40%;
+}
+.middle4 h1 {
+    font-size: 50px;
+    color: rgb(24, 33, 109);
+}
+.middle4 p {
+    font-size: 18px;
+    color: rgb(24, 33, 109);
+}
+
+input{
+    width: 100%;
+    height: 8vh;
+    background-color: rgb(245, 249, 250);
+    border: none;
+}
+ 
